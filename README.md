@@ -1,4 +1,4 @@
-# CrossSeg-GvT: Cross-Domain Few-Shot Segmentation via Enhanced GvT
+# CrossSeg-GvT: Multi-View Graph Vision Transformers with Context-Aware Memory and Meta Prompting for Cross-Domain Few-Shot Semantic Segmentation
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c)
@@ -337,10 +337,10 @@ If this repository helps your research, please cite:
 
 ```
 @misc{CrossSegGvT,
-  title  = {CrossSeg-GvT: Cross-Domain Few-Shot Segmentation via Enhanced GvT},
-  author = {<Your Name>},
+  title  = {CrossSeg-GvT: Multi-View Graph Vision Transformers with Context-Aware Memory and Meta Prompting for Cross-Domain Few-Shot Semantic Segmentation},
+  author = {<Anil Ahmed, Degen Huang>},
   year   = {2025},
-  url    = {https://github.com/<YOUR_USERNAME>/<YOUR_REPO>}
+  url    = {https://github.com/AnilAhmed8/GvT}
 }
 ```
 
@@ -360,13 +360,3 @@ Contributions are welcome!
 - Keep PRs focused and include brief notes on motivation and testing.
 
 ---
-
-### Optional: Publish a Release
-
-1. Tag & push:
-   ```bash
-   git tag v1.0.0
-   git push origin v1.0.0
-   ```
-2. Draft a GitHub Release → attach your code ZIP → publish.
-3. Add a social preview image (Settings → Social preview) to improve link sharing.
